@@ -1,0 +1,59 @@
+{
+  "name": "@lina/arango",
+  "version": "0.0.3-alpha",
+  "description": "Lina - modular, all in one, modern, fast, powerful node.js web framework (@arango)",
+  "author": "Rex Raphael",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awesome-graphql-space/arango.git"
+  },
+  "keywords": [
+    "lina",
+    "framework",
+    "lina",
+    "expressjs",
+    "chat",
+    "saas",
+    "ecommerce",
+    "auth",
+    "fingerprint",
+    "graphql"
+  ],
+  "bugs": {
+    "url": "https://github.com/awesome-graphql-space/arango/issues"
+  },
+  "homepage": "https://github.com/awesome-graphql-space/arango#readme",
+  "scripts": {
+    "build": "rm -rf dist && tsc -p tsconfig.json",
+    "precommit": "lint-staged",
+    "prepublish:npm": "npm run build",
+    "publish:npm": "npm publish --access public"
+  },
+  "peerDependencies": {
+    "@nestjs/common": "^5.0.0",
+    "rxjs": "^6.2.1"
+  },
+  "devDependencies": {
+    "@nestjs/common": "^5.0.1",
+    "@types/node": "^7.0.41",
+    "husky": "^0.14.3",
+    "lint-staged": "^7.0.0",
+    "prettier": "^1.11.1",
+    "rxjs": "^6.2.1",
+    "rxjs-compat": "^6.2.1",
+    "typescript": "^2.4.2"
+  },
+  "lint-staged": {
+    "*.ts": [
+      "prettier --write",
+      "git add"
+    ]
+  },
+  "dependencies": {
+    "@types/elasticsearch": "^5.0.24",
+    "elasticsearch": "^15.0.0",
+    "arangojs": "^6.6.0",
+    "final-orm": "^1.0.0-alpha.13"
+  }
+}
