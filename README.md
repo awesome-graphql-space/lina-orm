@@ -18,7 +18,7 @@ ArangoDb module for [Lina](https://github.com/awesome-graphql-space/lina) based 
 ## Installation
 
 ```bash
-$ npm i --save @lina/arango
+$ npm i --save @linaframework/arango
 ```
 
 ## Usage
@@ -136,7 +136,7 @@ Lina is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## Stay in touch
 
 * Website - [https://awesomegql.com](https://awesomegql.com/)
-* Twitter - [@linaframework](https://twitter.com/nestframework)
+* Twitter - [@linaframeworkframework](https://twitter.com/nestframework)
 
 ## License
 

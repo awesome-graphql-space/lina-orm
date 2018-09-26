@@ -1,5 +1,5 @@
 {
-  "name": "@lina/arango",
+  "name": "@linaframework/arango",
   "version": "0.0.3-alpha",
   "description": "Lina - modular, all in one, modern, fast, powerful node.js web framework (@arango)",
   "author": "Rex Raphael",
