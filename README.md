@@ -1,14 +1,16 @@
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://awesomeql.com/img/lina_logo_text.svg" width="320" alt="Lina Logo" /></a>
-</p>
+<h1 align="center">
+  <a href="https://linaframework.com" target="blank"><img src="https://cdn1.imggmi.com/uploads/2018/9/29/0a7d1413bd0bafe47d4be7df23505382-full.png" width="320" alt="Lina Logo" /></a>
+</h1>
 
 [travis-image]: https://api.travis-ci.org/awesome-graphql-space/lina.svg?branch=master
 [travis-url]: https://travis-ci.org/awesome-graphql-space/nest
 [linux-image]: https://img.shields.io/travis/nestjs/awesome-graphql-space/lina.svg?label=linux
 [linux-url]: https://travis-ci.org/awesome-graphql-space/lina
 
-  <p align="center">An easy, highly extensible, full app progressive <a href="http://nodejs.org" target="blank">Node.js</a> framework for building efficient and scalable server-side applications, in Graphql</p>
-    <p align="center">
+  <p align="center">Lina is an extensible, un-opinionated graphql powered nodejs backend with a suite of features and apps to support most of the basic and advance features your project will need</p>
+    <p align="center"> </p>
+
+<br />
 
 
 ## Description
