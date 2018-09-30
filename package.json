@@ -1,5 +1,5 @@
 {
-  "name": "@linaframework/arango",
+  "name": "@linaframework/lina-orm",
   "version": "0.0.3-alpha",
   "description": "Lina - modular, all in one, modern, fast, powerful node.js web framework (@arango)",
   "author": "Rex Raphael",
@@ -10,6 +10,7 @@
   },
   "keywords": [
     "lina",
+    "lina-orm",
     "framework",
     "lina",
     "expressjs",
